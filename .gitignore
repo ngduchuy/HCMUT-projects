@@ -222,3 +222,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+*.sln
+roll-and-roll/Library/assetDatabase3
+roll-and-roll/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
